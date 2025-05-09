@@ -150,8 +150,8 @@
 
  </p>
 
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muhthoriqas&hide=jupyter%20notebook,java,html&show_icons=true&langs_count=6&locale=en&layout=compact" alt="muhthoriqas" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhthoriqas&" alt="muhthoriqas" width="413px" /></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zikannsenpai&hide=jupyter%20notebook,java,html&show_icons=true&langs_count=6&locale=en&layout=compact" alt="zikk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zikannsenpai&" alt="zik" width="413px" /></p>
 
 <h3 align="left">This month i speend my time on:</h3>
 <!--START_SECTION:waka-->
