@@ -150,8 +150,7 @@
 
  </p>
 
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zikannsenpai&hide=jupyter%20notebook,java,python,html&show_icons=true&langs_count=6&locale=en&layout=compact" alt="zikk" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zikannsenpai&" alt="zik" width="413px" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zikannsenpai&show_icons=true&locale=en&layout=compact" alt="zikannsenpai" /></p>
 
 <h3 align="left">This month i speend my time on:</h3>
 <!--START_SECTION:waka-->
@@ -167,9 +166,6 @@ Other            2 hrs 38 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Blade Template   2 hrs 29 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.12 %
 Bash             7 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.16 %
 ```
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zikannsenpai&show_icons=true&locale=en&layout=compact" alt="zikannsenpai" /></p>
-
 <!--END_SECTION:waka-->
 <h3 align="left">My Contributions:</h3>
 
