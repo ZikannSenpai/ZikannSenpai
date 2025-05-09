@@ -168,6 +168,8 @@ Blade Template   2 hrs 29 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Bash             7 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.16 %
 ```
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zikannsenpai&show_icons=true&locale=en&layout=compact" alt="zikannsenpai" /></p>
+
 <!--END_SECTION:waka-->
 <h3 align="left">My Contributions:</h3>
 
