@@ -11,7 +11,7 @@
 
 - Location: **Central Java, Indonesia**.
 
-- Studying: [**Computer Science**](https://if.uigm.ac.id/home/).
+- Studying: [**AI Engineer**](https://).
 
 - System: **GNU/Linux**, **FreeBSD**, and other **Unix-like** system.
 
