@@ -7,19 +7,19 @@
 <br/>
 <br/>
 
-- Name: **Reidho Satria** / **レイドー・サトリア**.
+- Name: **Zidan Rizky** / **ジダンリズキ**.
 
-- Location: **South Sumatra, Indonesia**.
+- Location: **Central Java, Indonesia**.
 
 - Studying: [**Computer Science**](https://if.uigm.ac.id/home/).
 
 - System: **GNU/Linux**, **FreeBSD**, and other **Unix-like** system.
 
-- Languages: **TypeScript**, **Python**, **PHP**, **Nim** and **Rust**.
+- Languages: **TypeScript**, **Python**, **PHP**, **** and **Node**.
 
 - Tools: **Nmap**, **SQLMap**, **Metasploit**, and **others**.
 
-- Speaks: Bahasa Indonesia, Bahasa Melayu, English, and 日本語.
+- Speaks: Bahasa Indonesia, English, and 日本語.
 
 <img src="./img/top-langs.svg" align=right />
 <br/>
