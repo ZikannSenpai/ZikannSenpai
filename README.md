@@ -15,7 +15,7 @@
 
 - System: **GNU/Linux**, **FreeBSD**, and other **Unix-like** system.
 
-- Languages: **TypeScript**, **Python**, **PHP**, **** and **Node**.
+- Languages: **TypeScript**, **Python**, **PHP**, and **Node**.
 
 - Tools: **Nmap**, **SQLMap**, **Metasploit**, and **others**.
 
