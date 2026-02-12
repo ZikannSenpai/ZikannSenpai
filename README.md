@@ -28,8 +28,8 @@
 <br/>
 <br/>
 
-- 📗 [***elliottophellia/aizawa***](https://github.com/elliottophellia/aizawa) <br/>
-  Aizawa is a command-line webshell designed to execute commands through HTTP header.
+- 📗 [***zikannsenpai/portofolio***](https://github.com/zikannsenpai/portofolio) <br/>
+  My simple & responsive Portofolio.
 - 📘 [***elliottophellia/rsxxd***](https://github.com/elliottophellia/rsxxd) <br/>
   A Rust implementation of the popular hex dumping utility xxd.
 - 📙 [***elliottophellia/cari***](https://github.com/elliottophellia/cari) <br/>
