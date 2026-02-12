@@ -30,11 +30,11 @@
 
 - 📗 [***zikannsenpai/portofolio***](https://github.com/zikannsenpai/portofolio) <br/>
   My simple & responsive Portofolio.
-- 📘 [***elliottophellia/rsxxd***](https://github.com/elliottophellia/rsxxd) <br/>
-  A Rust implementation of the popular hex dumping utility xxd.
-- 📙 [***elliottophellia/cari***](https://github.com/elliottophellia/cari) <br/>
-  A Rust implementation of the popular HTML parsing utility pup.
-- 📒 [***elliottophellia/packages***](https://github.com/elliottophellia/packages) <br/>
+- 📘 [***zikannsenpai/zikanime***](https://github.com/zikannsenpai/zikanime) <br/>
+  A Free anime streaming site with high quality streams.
+- 📙 [***zikannsenpai/api***](https://github.com/zikannsenpai/api) <br/>
+  A Rest API for Bot WhatsApp or Somthing with TypeScript.
+- 📒 [***./.***](https://) <br/>
   Personal Fedora RPM repository with automatically maintained packages. Always up-to-date, synced daily via continuous integration.
 <img src="./img/tunjuk.png" width="270" align="right" />
 <br/>
