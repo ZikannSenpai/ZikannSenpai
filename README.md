@@ -36,7 +36,6 @@ const zikk: IZikk = {
 </a>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
-<img src="./img/top-langs.svg" align=right />
 <br/>
 <br/>
 <img src="./img/Repo-elaina.png" width="488" />
