@@ -7,17 +7,17 @@
 <br/>
 <br/>
 
-### 👨‍💻 About Me
+###  About Me
 
 ```typescript
-interface IDanzz {
+interface IZikk {
     role: string;
     language: string[];
     tools: string[];
     status: string;
 }
 
-const danzz: IDanzz = {
+const zikk: IZikk = {
     role: "Backend Developer",
     language: ["JavaScript", "TypeScript", "Golang"],
     tools: ["VS Code", "Git", "Postman", "Docker"],
@@ -25,14 +25,14 @@ const danzz: IDanzz = {
 };
 ```
 <div align="center">
-  <h3>💻 Tech Stack</h3>
+  <h3> Tech Stack</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,go,nodejs,mysql,mongo,docker,git,vscode" />
   </a>
 </div>
 <h3>📈 Coding Activity</h3>
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanzzAraAra&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" alt="Danzz Activity Graph" width="100%" />
+<a href="https://github.com/zikannsenpai/github-readme-activity-graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zikannsenpai&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" alt="Zikk Activity Graph" width="100%" />
 </a>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
