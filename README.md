@@ -7,20 +7,35 @@
 <br/>
 <br/>
 
-- Name: **Zidan Rizky** / **ジダンリズキ**.
+### 👨‍💻 About Me
 
-- Location: **Central Java, Indonesia**.
+```typescript
+interface IDanzz {
+    role: string;
+    language: string[];
+    tools: string[];
+    status: string;
+}
 
-- Studying: [**AI Engineer**](https://).
-
-- System: **GNU/Linux**, **FreeBSD**, and other **Unix-like** system.
-
-- Languages: **TypeScript**, **Python**, **PHP**, and **Node**.
-
-- Tools: **Nmap**, **SQLMap**, **Metasploit**, and **others**.
-
-- Speaks: Bahasa Indonesia, English, and 日本語.
-
+const danzz: IDanzz = {
+    role: "Backend Developer",
+    language: ["JavaScript", "TypeScript", "Golang"],
+    tools: ["VS Code", "Git", "Postman", "Docker"],
+    status: "Sleep"
+};
+```
+<div align="center">
+  <h3>💻 Tech Stack</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,go,nodejs,mysql,mongo,docker,git,vscode" />
+  </a>
+</div>
+<h3>📈 Coding Activity</h3>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanzzAraAra&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" alt="Danzz Activity Graph" width="100%" />
+</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
 <img src="./img/top-langs.svg" align=right />
 <br/>
 <br/>
