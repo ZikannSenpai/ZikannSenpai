@@ -3,7 +3,7 @@
 </div>
 
 <div>  
-<img width="337" src="https://pin.it/42i99bTTZ" align=right />
+<img width="337" src="https://i.pinimg.com/originals/39/f4/b0/39f4b02aaba50ffb10273b9b2ba1f27a.gif" align=right />
 <br/>
 <img src="./img/AboutMe-elaina.png" width="488" />
 <br/>
