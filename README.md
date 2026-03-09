@@ -3,7 +3,7 @@
 </div>
 
 <div>  
-<img width="337" src="./img/senyum.png" align=right />
+<img width="337" src="https://pin.it/42i99bTTZ" align=right />
 <br/>
 <img src="./img/AboutMe-elaina.png" width="488" />
 <br/>
